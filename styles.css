@@ -1,0 +1,44 @@
+
+.jumbotron {
+    background-color: #db0303; 
+    color: white;
+    padding: 50px 0;
+    text-align: center; 
+    position: relative;
+}
+
+.jumbotron img {
+    max-width: 150px; 
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto; 
+}
+
+
+.text-justify {
+    text-align: justify;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+h2 {
+    margin-bottom: 20px;
+}
+p {
+    margin-bottom: 15px;
+}
+ul {
+    margin-left: 20px;
+}
+.highlight {
+    font-weight: bold;
+    color: #103da0; 
+}
+.section-title {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
